@@ -34,3 +34,18 @@
 </p>
 
 <br>
+
+<h2>Stats</h2>
+
+The final output contains numerous stats on each head coach broken down by season, game, and in-game situation splits. There are also charts showing the trend of coach play call percentages season-by-season.
+
+<h4><u><i>Head Coach Profile Sample:</i></u></h4>
+<br>
+
+![headcoach-playcalling](https://user-images.githubusercontent.com/53943838/149449189-b66b8b6a-53a2-47c4-a53f-ce0c9636b93b.png)
+
+<i>
+  Visit the <a href="https://www.skillalytics.com/stats/nfl-headcoaches/">Head Coach Play Calling Stat</a> page to see these stats and more for each NFL head coach between the 1999 and 2021 seasons.
+</i>
+  
+  
